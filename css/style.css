@@ -1,0 +1,46 @@
+
+.subtitle-right{
+
+	padding-left: 110px;
+}
+
+
+
+.some-magic
+{
+    border-radius: 1000px;
+}
+
+.change-size{
+
+  
+  font-size: 40px;
+  color: #424242;
+}
+
+.pargaraph {
+
+  padding-top: 120px;
+
+}
+
+body {
+  font-family: 'Space Mono', monospace;;
+  color: #424242;
+}
+
+.page-header{
+
+
+	border-bottom: 3px solid #7d97ad;
+}
+
+.color-f{
+
+	color: #7d97ad ;
+
+}
+.move-flask{
+
+	padding-top:25px;
+}
